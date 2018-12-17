@@ -69,8 +69,16 @@ Finally, I focused on editing the styling using html and css to edit the fonts, 
 
 ![screencapture-tsokolowski-github-io-working_moms_data_viz-2018-12-16-20_30_07](https://user-images.githubusercontent.com/43052425/50061827-6a6d7000-0171-11e9-84c7-d100adf5bd49.png)
 
-#### Reflection
+#### Reflection - challenges, learnings and next steps
 
+One of my biggest challenges was animating the visuals of the icons of women to pop up on the screen. The animation I created for the first statistic with only 5 icons was fairly simple since I could move each one individually. However, for the visuals that had 100 icons, this wasn't going to be possible. With Joey's help, I was able to replicate the code he provided and apply it to multiple women appearing within the sketch, however I couldn't figure out how to make the icons display with equal spacing on the canvas, or how to change the color of certain icons to represent the statistic. Here was the code from Joey: https://editor.p5js.org/joeyklee/sketches/BkGRVRblE and then my attempt to replicate this with the women icons: https://editor.p5js.org/tsokolowski/sketches/HkQS22GxE. In the end, I chose to keep my animation of each row of women appearing on the screen instead of each individual woman filing in. This wasn't as visually pleasing, but still communicated what I needed.
 
+Another challenge was trying to add additional scrolling effects to the page. I wanted to apply scrolling effects so that text would appaer on the screen as you scrolled down as well, but found this to be way more difficult than I expected. I found many sites with similar effects and tried to look into their code to replicate it, and even found some downloadable templates on github, but every time I tried these, I broke my visualization. For this project I chose to go with simplicity, especially since I was coding it in p5.js, but would've wanted a more pleasing visual aesthetic if I had been able to.
 
-## Resources
+A key learning from this process was to be more critical of data sources and how people are using and visualizing data. I found many statistics within news articles related to my topic that were used out of context and once I dug into the data within the original study, I often found different or more nuanced information. This was an important reminder as I do my thesis research to not believe everything I read, and to really go into the data to see what else is going on. 
+
+I also learned a lot more coding language than I realized and found myself feeling pretty confident to at least execute the basics of what I wanted to do. I think this will be extremely useful in the future when working with developers to understand the syntax and be able to create a rough prototype of what I want to communicate.
+
+Finally, next steps for this project are to connect it to my thesis website so people can learn more about my work. I have already started sharing the site with a few stakeholders that are engaged with my research to get their feedback. Overall, they have reported that the explanation of the connection between motherhood and limited opportunities for career growth is very clear through my visualization and many said they learned something they didn't know or didn't expect related to the statistics. I'm looking forward to using this as a tool for communicating about my thesis with others. 
+
+Thanks so much Joey!
