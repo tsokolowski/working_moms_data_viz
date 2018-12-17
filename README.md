@@ -39,10 +39,16 @@ For this project, I parsed through all the various statistics and data points th
 Once I pulled all of the statistics I wanted to include, I created a narrative that would weave them together and tell a story  about how a woman's career is affected when she becomes a mom. For the visualizations, I wanted to create something simple but impactful, where someone could visually see the differences between the key statistics at a quick glance. To do this I chose to represent each statistic with icons of women, where each icon would represent one woman. 
 
 For the first statistic (20% of corporate CEO's are women), I choose to visualize it as "1 in 5" in order to make it very tangible and relatable. The visual shows 1 woman icon and 4 men icons to see how underrepresented women are at the c-suite level.
+
+<img width="447" alt="screen shot 2018-12-16 at 8 04 23 pm" src="https://user-images.githubusercontent.com/43052425/50061483-e1edd000-016e-11e9-97f4-fb4d68a0e543.png">
       
 For the second and third statistics (2% of woman plan to leave the workforce for family reasons, but 43% of women scale back at work after having a child and 27% quit their job at some point to care for children), I wanted to show 100 women (equiavalent of 100%) for each visualization to be able to directly compare them and see the impact. Ultimately, I wanted to show how only 2 out of 100 women planned to change their careers to care for children, but 70 out of 100 ended up making changes. This was to debunk the myth that most women leave work or don't become senior leaders because they *choose* to, and emphaize that that may not have been their original plan or goal. 
 
+<img width="444" alt="screen shot 2018-12-16 at 8 04 33 pm" src="https://user-images.githubusercontent.com/43052425/50061496-f8942700-016e-11e9-8db8-c81f49159d49.png"> <img width="448" alt="screen shot 2018-12-16 at 8 04 41 pm" src="https://user-images.githubusercontent.com/43052425/50061497-f8942700-016e-11e9-971e-ef7d253fda2d.png">
+
 For the final statistic (women who took 1 year off from work earned 39% less than those that didn’t and those that took 4 or more years off earned 65% less), I chose to just compare 3 representative women and create a simple bar graph of their difference in earnings. 
+
+<img width="448" alt="screen shot 2018-12-16 at 8 04 49 pm" src="https://user-images.githubusercontent.com/43052425/50061498-f8942700-016e-11e9-8dd6-d5539bc8e688.png">
 
 #### Building the Visualization
 
