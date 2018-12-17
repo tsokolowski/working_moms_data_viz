@@ -36,7 +36,7 @@ For this project, I parsed through all the various statistics and data points th
 
 #### Visualization Selection
 
-Once I pulled all of the statistics I wanted to include, I created a narrative that would weave them together and tell a story  about how a woman's career is affected when she becomes a mom. For the visualizations, I wanted to create something simple but impactful, where someone could visually see the differences between the key statistics at a quick glance. To do this I chose to represent each statistic with icons of women, where each icon would represent one woman.   
+Once I pulled all of the statistics I wanted to include, I created a narrative that would weave them together and tell a story  about how a woman's career is affected when she becomes a mom. For the visualizations, I wanted to create something simple but impactful, where someone could visually see the differences between the key statistics at a quick glance. To do this I chose to represent each statistic with icons of women, where each icon would represent one woman. 
 
 For the first statistic (20% of corporate CEO's are women), I choose to visualize it as "1 in 5" in order to make it very tangible and relatable. The visual shows 1 woman icon and 4 men icons to see how underrepresented women are at the c-suite level.
 
