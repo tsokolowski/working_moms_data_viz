@@ -52,8 +52,25 @@ For the final statistic (women who took 1 year off from work earned 39% less tha
 
 #### Building the Visualization
 
+Once I knew what story I wanted to tell and what I wanted the visualizations to look like, building my visualization in p5.js was a whole other challenge. I started by building the basic structure of the site (with Joey's help) to place multiple visualizations throughout the page that would appear when you scroll. I think placed images in each of those sections as placed holders. Here's a link to my first draft: https://editor.p5js.org/tsokolowski/sketches/Hk8BEMwkV (images that don't appear when you scroll) and second draft: https://editor.p5js.org/tsokolowski/sketches/S1r5dzDyN (added scrolling effect).
 
+![draft 1](https://user-images.githubusercontent.com/43052425/50061683-8d4b5480-0170-11e9-9f6d-b0d189c2b130.jpg)
+
+From there, I worked to build each visualization in a separate p5 sketch. Here are the links to those 4 visualizations:
+
+Sketch one: https://editor.p5js.org/tsokolowski/sketches/SkPpUubeE
+Sketch two: https://editor.p5js.org/tsokolowski/sketches/HkVG3n-xE
+Sketch three: https://editor.p5js.org/tsokolowski/sketches/SJU5x-MlV
+Sketch four: https://editor.p5js.org/tsokolowski/sketches/SkBfuyzlE
+
+Once I had these built, I was able to bring them into my final project and replace the images with canvases for each sketch. Here I had to navigate necessary changes within the code so it would work in the overall structure of the page. 
+
+Finally, I focused on editing the styling using html and css to edit the fonts, colors, etc. from the style guide I had originally created. Here is a screenshot of the final site:
+
+![screencapture-tsokolowski-github-io-working_moms_data_viz-2018-12-16-20_30_07](https://user-images.githubusercontent.com/43052425/50061827-6a6d7000-0171-11e9-84c7-d100adf5bd49.png)
 
 #### Reflection
+
+
 
 ## Resources
