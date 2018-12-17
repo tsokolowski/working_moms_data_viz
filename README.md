@@ -40,6 +40,10 @@ Once I pulled all of the statistics I wanted to include, I created a narrative t
 
 For the first statistic (20% of corporate CEO's are women), I choose to visualize it as "1 in 5" in order to make it very tangible and relatable. The visual shows 1 woman icon and 4 men icons to see how underrepresented women are at the c-suite level.
 
+
+working_moms_data_viz/image2.jpeg
+      
+
 For the second and third statistics (2% of woman plan to leave the workforce for family reasons, but 43% of women scale back at work after having a child and 27% quit their job at some point to care for children), I wanted to show 100 women (equiavalent of 100%) for each visualization to be able to directly compare them and see the impact. Ultimately, I wanted to show how only 2 out of 100 women planned to change their careers to care for children, but 70 out of 100 ended up making changes. This was to debunk the myth that most women leave work or don't become senior leaders because they *choose* to, and emphaize that that may not have been their original plan or goal. 
 
 For the final statistic (women who took 1 year off from work earned 39% less than those that didn’t and those that took 4 or more years off earned 65% less), I chose to just compare 3 representative women and create a simple bar graph of their difference in earnings. 
